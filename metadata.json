@@ -1,0 +1,8 @@
+{
+  "name":"TPSEstimator",
+  "author": "Dawjaw",
+  "entry": "index.js",
+  "requires": ["Vigilance"],
+  "description": "Estimates server TPS based on packet data",
+  "version": "0.0.2"
+}
